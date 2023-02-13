@@ -12,9 +12,8 @@ Welcome to my Github Profile!
 - <a target="_blank" href="https://medium.com/@caglayanyanikoglu/vs-code-extension-to-generate-ai-driven-alt-texts-for-images-14abebbe3d82"><img src="https://medium.com/@caglayanyanikoglu/vs-code-extension-to-generate-ai-driven-alt-texts-for-images-14abebbe3d82" alt="Recent Article 1"></a>
 
 ### 📮 Get In Touch!
-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/caglayanyanikoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="atakde" height="30" width="40" /></a>
-<a href="https://twitter.com/caglayanDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atakde" height="30" width="40" /></a>
-<a href="https://medium.com/@caglayanyanikoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atakde" height="30" width="40" /></a>
+<a href="https://codepen.io/caglayanyanikoglu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="atakde" height="30" width="40" /></a>
+<a href="https://twitter.com/caglayanDev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atakde" height="30" width="40" /></a>
+<a href="https://medium.com/@caglayanyanikoglu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atakde" height="30" width="40" /></a>
 </p>
