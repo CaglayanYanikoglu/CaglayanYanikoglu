@@ -4,9 +4,6 @@ Hi! I'm Çağlayan!
 
 Welcome to my Github Profile!
 
-### 🌱 My Contributions So Far!
-![github stats](https://github-readme-stats.vercel.app/api?username=CaglayanYanikoglu&show_icons=true)
-
 ### 📝 My Latest Blog Post in Medium
 [![Medium Articles](https://nodejs-medium-fetcher.vercel.app/?username=CaglayanYanikoglu&limit=5&responseType=svg)](https://medium.com/@caglayanyanikoglu)
 
